@@ -22,4 +22,4 @@ This project implements a multilingual news summarization system using transform
 
 ---
 
-## Project Structure
+By Imanjot Singh Deol for CS-514: Applied Artificial Intelligence | University of Illinois Chicago
