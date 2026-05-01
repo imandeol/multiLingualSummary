@@ -1,0 +1,3 @@
+[submodule "summarizer-ui"]
+	path = summarizer-ui
+	url = https://github.com/imandeol/summarizer-ui
